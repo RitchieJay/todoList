@@ -9,7 +9,6 @@ import {
   View,
   Keyboard,
 } from "react-native";
-import { StatusBar } from "expo-status-bar";
 import Task from "./components/Task";
 
 export default function App() {
